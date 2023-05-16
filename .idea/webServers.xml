@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00be0e0c-75ae-4c50-9e5d-f1266644c06d" name="root@region-3.seetacloud.com:45721 password">
+        <fileTransfer accessType="SFTP" host="region-3.seetacloud.com" port="45721" sshConfigId="f3b54df7-29b7-4314-b748-dfc43ab527ab" sshConfig="root@region-3.seetacloud.com:45721 password" />
+      </webServer>
+    </option>
+  </component>
+</project>

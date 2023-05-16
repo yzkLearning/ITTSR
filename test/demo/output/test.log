@@ -1,0 +1,4 @@
+[2023-04-01 11:05:51,942] - [trainer.py file line:53] - INFO: load_model_path: ./xunlian/model/model_00050.pt
+[2023-04-01 11:05:53,242] - [trainer.py file line:171] - INFO: Test process...
+[2023-04-01 11:05:53,242] - [trainer.py file line:172] - INFO: lr path:     ./test/demo/lr/L18_112456_217112_s014.jpg
+[2023-04-01 11:05:53,242] - [trainer.py file line:173] - INFO: ref path:    ./test/demo/ref/L18_112456_217112_s014.jpg
