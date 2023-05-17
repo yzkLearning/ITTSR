@@ -26,7 +26,7 @@ TTSR的改进算法。
 * torchvision = 0.13.0+cu113
 
 ## 数据集
-1. 数据集可在[百度网盘](链接：https://pan.baidu.com/s/1OVCdRxTfStuFdeDLcallOg)(提取码：d6qo)中下载
+1. 数据集可在[百度网盘](https://pan.baidu.com/s/1OVCdRxTfStuFdeDLcallOg)(提取码：d6qo)中下载
 2. 数据集文件夹结构:
 - RRSSRD
     - train
