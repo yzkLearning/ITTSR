@@ -17,7 +17,7 @@ TTSR的改进算法。
 
 
 ### 主要结果
-<img src="https://github.com/yzkLearning/ITTSR/IMG/results.png" width=80%>
+<img src="https://github.com/yzkLearning/ITTSR/blob/master/IMG/results.png" width=80%>
 
 ## 实验环境与依赖
 * python 3.8 (需要使用 [Anaconda](https://www.anaconda.com/))
